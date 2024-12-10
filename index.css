@@ -177,10 +177,6 @@ body {
 }
 /* --------------------------------------------for Desktop====================== */
 @media (min-width: 590px) {
-  body {
-    background-color: #fff;
-  }
-
   #btn {
     height: 8rem;
     width: 9rem;
